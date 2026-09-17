@@ -1,4 +1,3 @@
-#git sync test
 import json
 import os
 import ssl
