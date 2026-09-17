@@ -1,7 +1,12 @@
 import json
+import os
 
-# 1. Load the raw NASA data from your saved JSON file
-with open("raw_nasa_data.json", "r") as file:
+# Dynamic path resolution: targets 'raw_nasa_data.json' inside this script's folder
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FILE_PATH = os.path.join(BASE_DIR, "raw_nasa_data.json")
+
+# 1. Load raw data using the resolved file path
+with open(FILE_PATH, "r") as file:
     data = json.load(file)
 
 near_earth_objects = data.get("near_earth_objects", {})
@@ -25,7 +30,7 @@ for date, asteroids in near_earth_objects.items():
         ):
             missing_orbiting_body += 1
 
-        # Check if speed is stored as a text string (e.g. "45123.82") instead of a raw number
+        # Check if speed is stored as a text string instead of a number
         if close_data:
             vel = (
                 close_data[0]
@@ -39,6 +44,4 @@ for date, asteroids in near_earth_objects.items():
 print("\n--- DAY 1 DATA AUDIT SUMMARY ---")
 print(f"Total Asteroids Examined: {total_asteroids}")
 print(f"Records missing 'orbiting_body': {missing_orbiting_body}")
-print(
-    f"Velocities stored as text strings instead of numbers: {string_velocities}"
-)
+print(f"Velocities stored as text strings instead of numbers: {string_velocities}")
