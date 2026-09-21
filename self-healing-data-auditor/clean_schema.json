@@ -1,0 +1,22 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "CleanAsteroidRecord",
+    "type": "object",
+    "required": [
+        "id",
+        "name",
+        "is_potentially_hazardous",
+        "estimated_diameter_meters",
+        "velocity_km_per_sec",
+        "orbiting_body"
+    ],
+    "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "is_potentially_hazardous": { "type": "boolean" },
+        "estimated_diameter_meters": { "type": "number", "minimum": 0 },
+        "velocity_km_per_sec": { "type": "number", "minimum": 0 },
+        "orbiting_body": { "type": "string", "minLength": 1 }
+    },
+    "additionalProperties": false
+}
