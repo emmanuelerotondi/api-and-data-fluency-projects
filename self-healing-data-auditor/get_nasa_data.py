@@ -17,7 +17,7 @@ else:
     print("🔑 Loaded NASA_API_KEY successfully!")
 
 # 2. Define the NASA API web address (requesting 7 days of asteroid data)
-url = f"https://api.nasa.gov/neo/rest/v1/feed?start_date=2026-09-01&end_date=2026-09-07&api_key={api_key}"
+url = f"https://api.nasa.gov/neo/rest/v1/feed?start_date=2026-09-08&end_date=2026-09-15&api_key={api_key}"
 
 print("🛰️ Connecting to NASA servers...")
 
