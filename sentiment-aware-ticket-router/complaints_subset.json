@@ -1,0 +1,52 @@
+[
+  {
+    "complaint_id": "1000001",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General-purpose credit card",
+    "issue": "Billing dispute",
+    "company": "BANK OF AMERICA",
+    "state": "CA",
+    "narrative": "I discovered an unauthorized fraudulent charge of $350 on my statement. I called customer service immediately, but the representative was extremely rude, called me a liar, and refused to open an investigation or refund my money! I am absolutely furious with this service."
+  },
+  {
+    "complaint_id": "1000002",
+    "date_received": "2026-02-14",
+    "product": "Checking account",
+    "sub_product": "Personal account",
+    "issue": "Overdraft fees",
+    "company": "WELLS FARGO",
+    "state": "NY",
+    "narrative": "They charged me three consecutive $35 overdraft fees when my account balance was still positive. The transactions were reordered intentionally to maximize fees. I demand an immediate reversal of these fraudulent charges."
+  },
+  {
+    "complaint_id": "1000003",
+    "date_received": "2026-02-13",
+    "product": "Credit reporting",
+    "sub_product": "Credit report errors",
+    "issue": "Incorrect debt reported",
+    "company": "EQUIFAX",
+    "state": "TX",
+    "narrative": "Equifax listed an account that belongs to someone else on my credit report. I submitted certified letters and a police report showing identity theft XXXX, but they rejected my dispute without checking."
+  },
+  {
+    "complaint_id": "1000004",
+    "date_received": "2026-02-12",
+    "product": "Auto loan",
+    "sub_product": "Vehicle lien",
+    "issue": "Title release",
+    "company": "CAPITAL ONE",
+    "state": "FL",
+    "narrative": "I paid off my car loan completely over 60 days ago. I have called five times asking for my title, but every agent gives me a different excuse. This is ridiculous."
+  },
+  {
+    "complaint_id": "1000005",
+    "date_received": "2026-02-11",
+    "product": "Mortgage",
+    "sub_product": "Conventional fixed mortgage",
+    "issue": "Loan modification",
+    "company": "CHASE BANK",
+    "state": "IL",
+    "narrative": "The customer support team lost my hardship application documents three separate times. They threatened foreclosure while my review was actively pending."
+  }
+]
