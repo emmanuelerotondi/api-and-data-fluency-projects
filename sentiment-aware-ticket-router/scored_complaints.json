@@ -1,5 +1,57 @@
 [
   {
+    "complaint_id": "1790802128",
+    "date_received": "2026-09-30",
+    "product": "Credit card",
+    "issue": "Unauthorized charges",
+    "company": "Chase",
+    "state": "NY",
+    "narrative": "I am furious! An unauthorized charge of $1,200 appeared on my account and customer support refused to remove the fee!",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9999,
+    "routing_priority": "URGENT_ESCALATION",
+    "target_queue": "Tier 3 Specialist Support"
+  },
+  {
+    "complaint_id": "1790802067",
+    "date_received": "2026-09-30",
+    "product": "Credit card",
+    "issue": "Unauthorized charges",
+    "company": "Chase",
+    "state": "NY",
+    "narrative": "I am furious! An unauthorized charge of $1,200 appeared on my account and customer support refused to remove the fee!",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9999,
+    "routing_priority": "URGENT_ESCALATION",
+    "target_queue": "Tier 3 Specialist Support"
+  },
+  {
+    "complaint_id": "1790713809",
+    "date_received": "2026-09-29",
+    "product": "Credit card",
+    "issue": "Unauthorized charges",
+    "company": "Chase",
+    "state": "NY",
+    "narrative": "I am furious! An unauthorized charge of $1,200 appeared on my account and customer support refused to remove the fee!",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9999,
+    "routing_priority": "URGENT_ESCALATION",
+    "target_queue": "Tier 3 Specialist Support"
+  },
+  {
+    "complaint_id": "1790713359",
+    "date_received": "2026-09-29",
+    "product": "Credit card",
+    "issue": "Unauthorized charges",
+    "company": "Chase",
+    "state": "NY",
+    "narrative": "I am furious! An unauthorized charge of $1,200 appeared on my account and customer support refused to remove the fee!",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9999,
+    "routing_priority": "URGENT_ESCALATION",
+    "target_queue": "Tier 3 Specialist Support"
+  },
+  {
     "complaint_id": "1000000",
     "date_received": "2026-02-15",
     "product": "Credit card",

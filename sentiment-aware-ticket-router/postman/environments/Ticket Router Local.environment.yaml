@@ -1,0 +1,6 @@
+name: Ticket Router Local
+values:
+  - key: baseUrl
+    value: ''
+  - key: ticketId
+    value: ''

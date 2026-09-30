@@ -1,0 +1,29 @@
+$kind: http-request
+url: "{{baseUrl}}/tickets"
+method: POST
+body:
+  type: json
+  content: |-
+    {
+      "product": "Credit card",
+      "issue": "Unauthorized charges",
+      "narrative": "I am furious! An unauthorized charge of $1,200 appeared on my account and customer support refused to remove the fee!",
+      "company": "Chase",
+      "state": "NY"
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test("Status code is 201 Created", function () {
+          pm.response.to.have.status(201);
+      });
+
+      var response = pm.response.json();
+      pm.environment.set("ticketId", response.complaint_id);
+
+      pm.test("Ticket routed to URGENT_ESCALATION", function () {
+          pm.expect(response.routing_priority).to.eql("URGENT_ESCALATION");
+          pm.expect(response.target_queue).to.eql("Tier 3 Specialist Support");
+      });
+    language: text/javascript
+order: 1790713021420

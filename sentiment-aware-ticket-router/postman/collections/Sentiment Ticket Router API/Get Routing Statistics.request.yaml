@@ -1,0 +1,17 @@
+$kind: http-request
+url: "{{baseUrl}}/tickets/stats"
+method: GET
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test("Status code is 200 OK", function () {
+          pm.response.to.have.status(200);
+      });
+
+      var response = pm.response.json();
+      pm.test("Stats summary schema verification", function () {
+          pm.expect(response).to.have.property("total_tickets_processed");
+          pm.expect(response.priority_distribution).to.have.property("URGENT_ESCALATION");
+      });
+    language: text/javascript
+order: 4498525874085424

@@ -1,52 +1,2002 @@
 [
   {
-    "complaint_id": "1000001",
+    "complaint_id": "1000000",
     "date_received": "2026-02-15",
     "product": "Credit card",
-    "sub_product": "General-purpose credit card",
+    "sub_product": "General card",
     "issue": "Billing dispute",
-    "company": "BANK OF AMERICA",
+    "company": "EQUIFAX INC.",
     "state": "CA",
-    "narrative": "I discovered an unauthorized fraudulent charge of $350 on my statement. I called customer service immediately, but the representative was extremely rude, called me a liar, and refused to open an investigation or refund my money! I am absolutely furious with this service."
+    "narrative": "Complaint record 0: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000001",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 1: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
   },
   {
     "complaint_id": "1000002",
-    "date_received": "2026-02-14",
-    "product": "Checking account",
-    "sub_product": "Personal account",
-    "issue": "Overdraft fees",
-    "company": "WELLS FARGO",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
     "state": "NY",
-    "narrative": "They charged me three consecutive $35 overdraft fees when my account balance was still positive. The transactions were reordered intentionally to maximize fees. I demand an immediate reversal of these fraudulent charges."
+    "narrative": "Complaint record 2: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
   },
   {
     "complaint_id": "1000003",
-    "date_received": "2026-02-13",
-    "product": "Credit reporting",
-    "sub_product": "Credit report errors",
-    "issue": "Incorrect debt reported",
-    "company": "EQUIFAX",
-    "state": "TX",
-    "narrative": "Equifax listed an account that belongs to someone else on my credit report. I submitted certified letters and a police report showing identity theft XXXX, but they rejected my dispute without checking."
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 3: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
   },
   {
     "complaint_id": "1000004",
-    "date_received": "2026-02-12",
-    "product": "Auto loan",
-    "sub_product": "Vehicle lien",
-    "issue": "Title release",
-    "company": "CAPITAL ONE",
-    "state": "FL",
-    "narrative": "I paid off my car loan completely over 60 days ago. I have called five times asking for my title, but every agent gives me a different excuse. This is ridiculous."
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 4: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
   },
   {
     "complaint_id": "1000005",
-    "date_received": "2026-02-11",
-    "product": "Mortgage",
-    "sub_product": "Conventional fixed mortgage",
-    "issue": "Loan modification",
-    "company": "CHASE BANK",
-    "state": "IL",
-    "narrative": "The customer support team lost my hardship application documents three separate times. They threatened foreclosure while my review was actively pending."
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 5: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000006",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 6: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000007",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 7: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000008",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 8: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000009",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 9: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000010",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 10: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000011",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 11: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000012",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 12: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000013",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 13: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000014",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 14: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000015",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 15: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000016",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 16: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000017",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 17: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000018",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 18: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000019",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 19: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000020",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 20: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000021",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 21: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000022",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 22: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000023",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 23: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000024",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 24: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000025",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 25: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000026",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 26: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000027",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 27: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000028",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 28: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000029",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 29: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000030",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 30: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000031",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 31: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000032",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 32: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000033",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 33: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000034",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 34: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000035",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 35: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000036",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 36: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000037",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 37: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000038",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 38: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000039",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 39: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000040",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 40: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000041",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 41: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000042",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 42: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000043",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 43: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000044",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 44: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000045",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 45: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000046",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 46: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000047",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 47: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000048",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 48: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000049",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 49: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000050",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 50: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000051",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 51: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000052",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 52: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000053",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 53: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000054",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 54: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000055",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 55: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000056",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 56: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000057",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 57: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000058",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 58: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000059",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 59: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000060",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 60: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000061",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 61: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000062",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 62: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000063",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 63: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000064",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 64: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000065",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 65: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000066",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 66: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000067",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 67: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000068",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 68: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000069",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 69: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000070",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 70: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000071",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 71: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000072",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 72: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000073",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 73: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000074",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 74: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000075",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 75: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000076",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 76: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000077",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 77: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000078",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 78: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000079",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 79: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000080",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 80: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000081",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 81: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000082",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 82: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000083",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 83: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000084",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 84: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000085",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 85: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000086",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 86: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000087",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 87: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000088",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 88: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000089",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 89: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000090",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 90: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000091",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 91: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000092",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 92: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000093",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 93: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000094",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 94: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000095",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 95: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000096",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 96: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000097",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 97: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000098",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 98: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000099",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 99: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000100",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 100: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000101",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 101: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000102",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 102: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000103",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 103: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000104",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 104: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000105",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 105: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000106",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 106: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000107",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 107: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000108",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 108: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000109",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 109: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000110",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 110: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000111",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 111: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000112",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 112: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000113",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 113: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000114",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 114: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000115",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 115: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000116",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 116: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000117",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 117: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000118",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 118: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000119",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 119: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000120",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 120: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000121",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 121: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000122",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 122: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000123",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 123: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000124",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 124: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000125",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 125: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000126",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 126: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000127",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 127: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000128",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 128: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000129",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 129: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000130",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 130: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000131",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 131: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000132",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 132: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000133",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 133: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000134",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 134: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000135",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 135: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000136",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 136: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000137",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 137: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000138",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 138: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000139",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 139: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000140",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 140: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000141",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 141: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000142",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 142: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000143",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 143: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000144",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 144: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000145",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 145: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000146",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 146: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000147",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 147: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000148",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 148: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000149",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 149: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000150",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 150: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000151",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 151: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000152",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 152: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000153",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 153: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000154",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 154: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000155",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 155: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000156",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 156: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000157",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 157: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000158",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 158: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000159",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 159: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000160",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 160: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000161",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 161: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000162",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 162: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000163",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 163: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000164",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 164: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000165",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 165: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000166",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 166: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000167",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 167: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000168",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 168: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000169",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 169: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000170",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 170: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000171",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 171: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000172",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 172: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000173",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 173: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000174",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 174: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000175",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 175: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000176",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 176: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000177",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 177: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000178",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 178: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000179",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 179: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000180",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 180: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000181",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 181: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000182",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 182: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000183",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 183: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000184",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 184: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000185",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 185: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000186",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 186: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000187",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 187: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000188",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 188: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000189",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 189: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000190",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 190: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000191",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 191: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000192",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 192: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000193",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 193: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000194",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 194: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
+  },
+  {
+    "complaint_id": "1000195",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "CA",
+    "narrative": "Complaint record 195: Unauthorized fee of $150 charged on my statement. Customer service refused to reverse fees XXXX."
+  },
+  {
+    "complaint_id": "1000196",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "NY",
+    "narrative": "Complaint record 196: Account fraudulently opened using my social security number. TransUnion hasn't removed item XXXX."
+  },
+  {
+    "complaint_id": "1000197",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 197: Paid off auto loan in full two months ago. Company hasn't released car title despite requests XXXX."
+  },
+  {
+    "complaint_id": "1000198",
+    "date_received": "2026-02-15",
+    "product": "Credit card",
+    "sub_product": "General card",
+    "issue": "Billing dispute",
+    "company": "EQUIFAX INC.",
+    "state": "CA",
+    "narrative": "Complaint record 198: Applied for loan modification. Bank lost paperwork repeatedly XXXX and initiated improper fees."
+  },
+  {
+    "complaint_id": "1000199",
+    "date_received": "2026-02-15",
+    "product": "Checking account",
+    "sub_product": "Deposit account",
+    "issue": "Account management",
+    "company": "WELLS FARGO & COMPANY",
+    "state": "NY",
+    "narrative": "Complaint record 199: Excessive overdraft charges applied out of order to inflate penalties on positive balance XXXX."
   }
 ]

@@ -1,0 +1,17 @@
+$kind: http-request
+url: "{{baseUrl}}/tickets/{{ticketId}}"
+method: GET
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test("Status code is 200 OK", function () {
+          pm.response.to.have.status(200);
+      });
+
+      var response = pm.response.json();
+      pm.test("Retrieved ticket ID matches chained environment variable", function () {
+          pm.expect(response.complaint_id).to.eql(pm.environment.get("ticketId"));
+          pm.expect(response).to.have.property("sentiment_score");
+      });
+    language: text/javascript
+order: 2357000848797924
