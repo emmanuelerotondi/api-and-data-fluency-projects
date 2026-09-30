@@ -1,0 +1,74 @@
+{
+  "info": {
+    "name": "Sentiment Ticket Router API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Create New Urgent Ticket",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test('Status code is 201 Created', function () { pm.response.to.have.status(201); });",
+              "pm.test('Ticket routed to URGENT_ESCALATION', function () { var jsonData = pm.response.json(); pm.expect(jsonData.priority).to.eql('URGENT_ESCALATION'); });"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"product\": \"Credit card\",\n  \"issue\": \"Unauthorized charges\",\n  \"company\": \"Chase\",\n  \"narrative\": \"I am furious! An unauthorized charge of $1,200 appeared on my account!\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/tickets",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "tickets"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Routing Statistics",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test('Status code is 200 OK', function () { pm.response.to.have.status(200); });",
+              "pm.test('Stats summary schema verification', function () { var jsonData = pm.response.json(); pm.expect(jsonData).to.have.property('total_tickets_processed'); });"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/tickets/stats",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "tickets",
+            "stats"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ticket-router-env",
+  "name": "Ticket Router Local",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:8000",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
